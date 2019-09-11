@@ -5,6 +5,7 @@
 * {
   box-sizing: border-box;
   text-decoration: none;
+  font-family: 'Merriweather', serif;	
 }
 
 body {
@@ -41,6 +42,15 @@ img {
 li {
   width: auto;
   display: inline-block;
+}
+
+
+.lg-sub-html {
+	bottom: 200px !important;
+}
+
+.lg-sub-html p {
+	font-size: 20px;
 }
 
 /* MEDIA QUERIES */
